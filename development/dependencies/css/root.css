@@ -91,6 +91,11 @@ a {
     color: #e5b701;
 }
 
+.vip {
+    text-shadow: #16E3C5 1px 1px 10px;
+    color: #16E3C5;
+}
+
 .overlay {
     pointer-events: none;
     position: absolute;
