@@ -95,7 +95,10 @@ a {
     text-shadow: #16E3C5 1px 1px 10px;
     color: #16E3C5;
 }
-
+.ActiveUser {
+            text-shadow: Green 1px 1px 10px;
+            color: #57ff0c;
+}
 .overlay {
     pointer-events: none;
     position: absolute;
